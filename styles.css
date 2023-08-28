@@ -203,3 +203,16 @@ body {
     font-size: 16px;
     margin-bottom: 0;
 }
+
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+  }
